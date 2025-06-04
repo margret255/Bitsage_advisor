@@ -59,8 +59,8 @@ It answers based on:
 ▶️ How To Run
 
     Clone the repo
+    https://github.com/margret255/Bitsage_advisor
 
-git clone https://github.com/yourusername/crypto-chatbot.git
 cd crypto-chatbot
 
     Install dependencies
